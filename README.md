@@ -1,3 +1,3 @@
 - Hi, I’m @Ballanium.
-- I’m interested in learning how to hack proficiently (ethically).
+- I’m interested in learning how to program proficiently.
 - Currently diving into networking fundamentals.
